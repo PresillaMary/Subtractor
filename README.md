@@ -82,7 +82,8 @@ endmodule
 
 ## Timing Diagram:
 
-![image](https://github.com/PresillaMary/Subtractor/assets/129305503/d679fa89-5475-49d9-92ee-aca01c976f8d)
+![image](https://github.com/PresillaMary/Subtractor/assets/129305503/ac8d0e8b-700e-47d6-8138-029d14dcd88d)
+
 
 
 
