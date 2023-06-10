@@ -44,6 +44,7 @@ A full subtractor is a combinational circuit that performs subtraction involving
 
 ## Program:
 
+~~~
 1.Half subtractor
 module exp4a(a,b,diff,borrow);
 input a,b;
@@ -53,7 +54,9 @@ xor(diff,a,b);
 not(adash,a);
 and(borrow,a,b);
 endmodule
+~~~
 
+~~~
 2.Full subtractor
 module exp4b(a,b,c,diff,borrow);
 input a,b,c;
@@ -67,6 +70,7 @@ and(q,b,c);
 and(r,adash,b);
 or(borrow,p,q,r);
 endmodule
+~~~
 
 
 
